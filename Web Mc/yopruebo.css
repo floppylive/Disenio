@@ -1,7 +1,7 @@
 header{ 
      display:block;
 	 margin:30px;
-	 background:rgba(250,0,0,0.7);
+	 background: -moz-linear-gradient(left, rgba(0,0,0,0) 0%, rgba(254,182,69,1) 100%);
 }
 img.superior{ display:block;
      margin: auto;
