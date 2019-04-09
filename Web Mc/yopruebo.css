@@ -8,12 +8,13 @@ img.superior{ display:block;
 	 width: 650px; 
 	 height: 300px;
 }
+hr{ color: #FACC2E;	
+}
 
 body{ 
         background: rgba(0,0,0, 0); 
 		
-	   
-	  
+	 	  
 	  
 }
 body h1{
@@ -24,6 +25,10 @@ body h1{
 table.quienessomos img{
 	width: 600px;
 	height: 400px;
+	
+}
+table.quienessomos p{
+	font-family: " Arial " , serif;
 	
 }
 table.ofertas img {
@@ -49,4 +54,18 @@ p{
 table{
     	display:table;
       margin: auto;
+}
+footer { background: black;
+margin-top: 20px;
+
+}
+
+footer p {  color: white;
+font-size: 10px;
+}
+
+footer table td p {
+	margin: auto;
+	font-size: 11px;
+	color: white;
 }
