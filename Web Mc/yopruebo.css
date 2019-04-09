@@ -23,6 +23,18 @@ body h1{
          margin-left: 350px;
 	
 }
+nav table  a{
+	text-decoration:none;
+font-weight:600;
+font-size:20px;
+color:#ffffff;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:150px;
+padding-right:150px;
+background-color:#b60000;
+	
+}
 table.quienessomos img{
 	width: 600px;
 	height: 400px;
